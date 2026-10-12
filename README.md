@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there, I'm Satyam Kumar 👋
 
-<!--
-**stylemecck/stylemecck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Founder of SatByte Technologies | MCA Student
 
-Here are some ideas to get you started:
+I build web applications that solve everyday problems—from managing diagnostic labs to creating useful tools for students. My main focus is the MERN stack, backend development, and AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Pursuing an **MCA at Galgotias University**.
+- 🚀 Founder of **SatByte Technologies**, focused on IT solutions and healthcare technology.
+- 🔭 Building web applications and exploring **AI-powered SaaS products**.
+- 🌱 Learning **Java, Data Structures & Algorithms, and system design**.
+- 🤝 Open to collaborating on web applications and open-source projects.
+- 💬 Ask me about **React, Node.js, Express, MongoDB, and REST APIs**.
+
+## 🛠️ Tech Stack
+
+| Area | Technologies |
+| --- | --- |
+| Languages | JavaScript, TypeScript, Java, Python |
+| Frontend | React, Next.js, HTML, CSS, Tailwind CSS |
+| Backend | Node.js, Express.js, NestJS |
+| Databases | MongoDB, PostgreSQL |
+| Tools | Git, GitHub, VS Code, Vite |
+| Deployment | Vercel, Render, Railway |
+
+## 🚀 Featured Projects
+
+### 🏥 Vaishali Diagnostic Centre LMS
+A MERN application built for a diagnostic centre to manage:
+- Patient records and billing
+- Lab reports and PDF generation
+- Inventory and expenses
+- Doctor commissions and audit logs
+
+### 🎓 SatByte Student Toolkit
+A collection of student utilities, including resume building, image tools, and rank prediction.
+
+### 🤖 SatByte AI Platform
+An ongoing project exploring:
+- Multi-tenant SaaS architecture
+- AI provider integrations
+- Streaming responses
+- Usage and cost tracking
+
+## 📚 Currently Learning
+
+- Java and object-oriented programming
+- Data structures, algorithms, and problem-solving
+- Database design and SQL
+- Backend architecture and system design
+
+## 📫 Let's Connect
+
+- 🌐 **Website:** [satbyte.in](https://satbyte.in)
+- 📧 **Email:** [satyam@satbyte.in](mailto:satyam@satbyte.in)
+- 💻 **GitHub:** [@stylemecck](https://github.com/stylemecck)
+
+---
+
+*Learning by building. Improving with every project.*
